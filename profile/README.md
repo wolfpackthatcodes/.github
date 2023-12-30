@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="Wolfpack That Codes | #InCodeWeTrust" src="https://github.com/wolfpackthatcodes/.github/blob/main/profile/images/banner.png?raw=true" alt="Wolfpack That Codes banner"/>
+  <img title="Wolfpack That Codes | #InCodeWeTrust" src="https://github.com/wolfpackthatcodes/.github/blob/main/images/banner.png?raw=true" alt="Wolfpack That Codes banner"/>
 </p>
 
 #### Introduction
